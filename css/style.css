@@ -456,7 +456,6 @@ header .fh5co-navbar-brand .fh5co-logo {
   font-size: 28px;
   text-transform: uppercase;
   color: #fff;
-  width: 300px;
   font-weight: 700;
 }
 header .fh5co-navbar-brand .fh5co-logo:hover {
@@ -468,7 +467,7 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   text-decoration: none;
 }
 header .fh5co-navbar-brand .fh5co-logo span {
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 4px;
   display: block;
   margin-bottom: 2px;
