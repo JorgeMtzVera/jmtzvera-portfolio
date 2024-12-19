@@ -467,14 +467,14 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   text-decoration: none;
 }
 header .fh5co-navbar-brand .fh5co-logo span {
-  font-size: 62px;
+  font-size: 22px;
   letter-spacing: 4px;
   display: block;
   margin-bottom: 2px;
   margin-top: 4px;
-  color: rgba(255, 240, 240, 0.5);
+  color: rgba(255, 240, 240, 0.6);
   line-height: 40px;
-  font-weight: 800px;
+  font-weight: 900px;
 }
 header .fh5co-navbar-brand .fh5co-social-icon {
   margin-top: 10px;
