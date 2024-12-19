@@ -54,9 +54,9 @@ a:focus, a:active {
 
 p, span {
   margin-bottom: 1.5em;
-  font-size: 26px;
-  color: #c79d9d;
-  font-weight: 600;
+  font-size: 20px;
+  color: #727272;
+  font-weight: 200;
   font-family: "Karla", Arial, sans-serif;
 }
 
