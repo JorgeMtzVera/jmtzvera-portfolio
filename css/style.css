@@ -452,7 +452,7 @@ header .fh5co-navbar-brand h1 {
   margin-bottom: 0;
 }
 header .fh5co-navbar-brand .fh5co-logo {
-  display: flexible;
+  display: flex;
   font-size: 24px;
   text-transform: uppercase;
   color: #fff;
