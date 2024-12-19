@@ -54,15 +54,15 @@ a:focus, a:active {
 
 p, span {
   margin-bottom: 1.5em;
-  font-size: 18px;
+  font-size: 20px;
   color: #c79d9d;
-  font-weight: 400;
+  font-weight: 600;
   font-family: "Karla", Arial, sans-serif;
 }
 
 span {
-  font-size: 18px;
-  color: rgba(114, 114, 114, 0.8);
+  font-size: 20px;
+  color: rgba(114, 100, 100, 0.6);
 }
 
 h1, h2, h3, h4, h5, h6 {
