@@ -74,8 +74,8 @@ html[xmlns] .flexslider .slides {
  * ====================================================================================================================*/
 .flexslider {
   margin: 0 0 60px;
-  background-image: url(../images/patter.png);
-  /*background: #ffffff;*/
+ /* background-image: url(../images/patter.png);*/
+  background: #49707a;
   border: 4px solid #ffffff;
   position: relative;
   zoom: 1;
