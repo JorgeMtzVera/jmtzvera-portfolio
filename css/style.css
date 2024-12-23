@@ -757,7 +757,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   padding: 5em;
   background: url('../images/texture.jpg') no-repeat center center;
   opacity: 0.7;
-  background: rgba(74, 47, 138, 0.9);
+  /*background: rgba(74, 47, 138, 0.9);*/
   -webkit-box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
