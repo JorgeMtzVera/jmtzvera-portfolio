@@ -95,9 +95,9 @@ h1, h2, h3, h4, h5, h6 {
   -ms-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1);
-  background: #f0f0f0;
+  /*background: #f0f0f0;*/
 
-  /*background-image: url(../images/patter.png);*/
+  background-image: url(../images/secondpattern.jpg);
 }
 .menu-show #fh5co-page {
   -webkit-transform: scale(0.9);
