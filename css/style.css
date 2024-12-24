@@ -725,7 +725,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
   font-family: "Neuton", Arial, sans-serif;
   font-size: 50px;
   font-weight: 400;
-  text-transform: uppercase;
+  font-variant: small-caps;
   color: #fff;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
